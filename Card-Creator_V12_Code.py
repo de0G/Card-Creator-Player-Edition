@@ -1,3 +1,10 @@
+"""
+NOTES FOR DEVELOPERS:
+The use of Exceptions are admittedly very liberal,
+and have thus been replaced with more meaningful statements in the 'Host Edition'
+complementary program where beneficial
+"""
+
 import tkinter as tk
 from tkinter import font
 from tkinter.messagebox import showerror, askquestion, showinfo
